@@ -7,6 +7,8 @@ Download following datasets into folder of choice:
 7) Training_Validation images  for Fire_vs_NoFire image classification
 8) Test images  for Fire_vs_NoFire image classification
 
-Code includes 'directory = r'C:\Users\User\CE888\Training\Training', update this with the directory to run code. 
+and manually extract folders.
+
+Code includes 'directory = r'C:\Users\User\CE888\Training\Training', update this with your directory to run code. 
 
 Code includes unfinished investigations of models.
